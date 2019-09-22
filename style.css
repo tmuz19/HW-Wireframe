@@ -1,12 +1,83 @@
-html{
+ html{
     display: block
     color aqua;
 }
-body {
+ body {
     font-family:Arial, Helvetica, sans-serif
 }
-   color#777777
-    background-color #777777
-    width 960px
-    font-size  18px
-  
+ body{
+   color: #777777
+   }
+ p{
+  background-color: #777777
+ }
+ body{
+     width:960px
+ }
+ body{
+ font-size: 18px
+ }
+h1 {
+color: gray
+}
+#footer {
+    text-align:center
+}
+  #footer{
+        position:absolute
+}
+h1 {
+    text-align:center
+}
+h2{
+    text-align:center
+}
+h3{
+    float: inline-end
+}
+.boxed h1{
+    border:50px solid gray
+}
+.boxed h2{
+    border: 25px solid gray
+}
+.boxed h3{
+    border: 30px solid gray
+}
+.boxed p{
+    border: 30px solid gray
+}
+p{
+    color: white
+}
+p{
+    text-align:center
+}
+.boxed h4{
+    border:30px solid gray
+}
+h4 {
+    text-align:center
+}
+p{
+    float:inline-start
+}
+h3{
+    color: gray
+}
+#page-container{
+    position:relative;
+    min-height: 100vh;
+}
+#content-wrap{
+    padding-bottom: 2.5 rem;
+}
+#footer{
+    position:absolute;
+    bottom:0;
+    width: 100%;
+    height: 2.5 rem
+}
+h3{
+    text-align: center
+}
